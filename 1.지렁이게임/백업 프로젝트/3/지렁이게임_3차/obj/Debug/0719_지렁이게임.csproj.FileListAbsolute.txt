@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\bin\Debug\0719_지렁이게임.exe.config
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\bin\Debug\0719_지렁이게임.exe
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\bin\Debug\0719_지렁이게임.pdb
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.exe
+C:\Users\User\Desktop\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.pdb
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\bin\Debug\0719_지렁이게임.exe.config
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\bin\Debug\0719_지렁이게임.exe
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\bin\Debug\0719_지렁이게임.pdb
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.exe
+C:\Users\User\Desktop\새 폴더\0719_지렁이게임\0719_지렁이게임\obj\Debug\0719_지렁이게임.pdb

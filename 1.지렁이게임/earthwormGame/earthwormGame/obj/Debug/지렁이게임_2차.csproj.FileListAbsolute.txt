@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\bin\Debug\0719_지렁이게임.exe.config
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\bin\Debug\0719_지렁이게임.exe
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\bin\Debug\0719_지렁이게임.pdb
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\obj\Debug\지렁이게임_2차.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\obj\Debug\지렁이게임_2차.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\obj\Debug\지렁이게임_2차.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\obj\Debug\0719_지렁이게임.exe
+C:\Users\User\Desktop\지렁이게임_2차\지렁이게임_2차\obj\Debug\0719_지렁이게임.pdb

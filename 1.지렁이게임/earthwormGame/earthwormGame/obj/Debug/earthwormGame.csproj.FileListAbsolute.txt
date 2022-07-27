@@ -1,0 +1,8 @@
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\bin\Debug\0719_지렁이게임.exe.config
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\bin\Debug\0719_지렁이게임.exe
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\bin\Debug\0719_지렁이게임.pdb
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\obj\Debug\earthwormGame.csproj.AssemblyReference.cache
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\obj\Debug\earthwormGame.csproj.SuggestedBindingRedirects.cache
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\obj\Debug\earthwormGame.csproj.CoreCompileInputs.cache
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\obj\Debug\0719_지렁이게임.exe
+E:\C#\1.지렁이게임\earthwormGame\earthwormGame\obj\Debug\0719_지렁이게임.pdb
